@@ -1,4 +1,4 @@
-![Header](https://github.com/ermi2021/ermi2021/blob/main/giphy%20(2)%20(3).gif)
+![Header](https://github.com/ermi2021/ermi2021/blob/main/DID%20YOU%20KNOW%20.png)
 
 
 <!---
