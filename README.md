@@ -1,4 +1,4 @@
-![Header](https://github.com/ermi2021/ermi2021/blob/main/banner.png)
+![Header](https://github.com/ermi2021/ermi2021/blob/main/banner2.png)
 
 
 <!---
