@@ -24,7 +24,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
       <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://icons8.com/icon/7I3BjCqe9rjG/flutter"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter.svg"
       alt="nodejs" width="40" height="40" /> </a> 
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
