@@ -1,4 +1,4 @@
-![Header](https://github.com/ermi2021/ermi2021/blob/main/crunch_banner.png)
+![Header](https://github.com/ermi2021/ermi2021/blob/main/slogan.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
