@@ -1,4 +1,4 @@
-![Header](https://github.com/ermi2021/ermi2021/blob/main/cover-image(1).png)
+![Header](https://github.com/ermi2021/ermi2021/blob/main/cover-image (1).png)
 
 
 <h3 align="left">Languages and Tools:</h3>
