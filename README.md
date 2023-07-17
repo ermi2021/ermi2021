@@ -2,4 +2,4 @@
 
 
 
-**I am a Software Engineer. who focuses on building web & mobile apps that assist businesses in overcoming obstacles and fulfilling their needs**
+***I am a Software Engineer. who focuses on building web & mobile apps that assist businesses in overcoming obstacles and fulfilling their needs***
