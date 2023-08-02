@@ -1,9 +1,4 @@
-![Header](https://github.com/ermi2021/ermi2021/blob/main/slogan.png)
-
-
-
-
-<h1 align="center">Hi 👋, I'm Ermiyas Zeleke</h1>
+<h1 align="center">Hi, I'm Ermiyas Zeleke</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 
 
